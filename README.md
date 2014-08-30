@@ -7,6 +7,12 @@ A small exercise in learning object-oriented programming in CoffeeScript and tes
 * To get further acquainted with Jasmine
 * To learn CoffeeScript.
 
+##Technologies
+
+* CoffeeScript
+* Jasmine
+
+
 ##How to test
 
 ```
